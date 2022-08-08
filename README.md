@@ -1,7 +1,7 @@
 ## Netflex
 ![Animation](https://github.com/bbluechip/Netflex/blob/master/Animation.gif)
 
-[Click here to see the page](https://bbluechip.github.io/Netflex/)
+👉[Click here to see the page](https://bbluechip.github.io/Netflex/)
 
 ## Project Skeleton
 

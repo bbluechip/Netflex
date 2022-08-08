@@ -8,6 +8,8 @@
 body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./background_image.jpg);
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #title {
@@ -120,6 +122,11 @@ textarea {
     cursor: pointer;
 }
 
+#submitbutton:hover {
+    background-color: white;
+    color: red;
+}
+
 ::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: black;
@@ -127,7 +134,9 @@ textarea {
     /* Firefox */
     font-size: normal;
 }
-label, .feedback {
+
+label,
+.feedback {
     font-family: 'Yrsa', serif;
 }
 
